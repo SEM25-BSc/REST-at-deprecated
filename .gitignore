@@ -33,9 +33,9 @@ tags
 .DS_Store
 
 # Data files
-#data/
-#out/
-#res/
+data/
+out/
+res/
 archive/
 
 # C3SE related
